@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "LgRXeZMd4QL5lUff7GPz9XEcaLEPnKM8wxIJYgeAk2948KEdDB+jzm4Avd3wsHKQbGFl0ugM9ZyOJFA3IFMCag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\halle\\OneDrive\\Documentos\\Visual Studio 2022\\ADSProject\\ADSProject\\ADSProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\halle\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\halle\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\halle\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\halle\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\halle\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\halle\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
