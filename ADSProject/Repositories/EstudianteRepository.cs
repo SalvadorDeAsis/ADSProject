@@ -21,6 +21,11 @@ namespace ADSProject.Repositories
 
         private readonly ApplicationDbContext applicationDbContext;
 
+        public EstudianteRepository(ApplicationDbContext applicationDbContext)
+        {
+            this.applicationDbContext = applicationDbContext;
+        }
+
         public int AgregarEstudiante(Estudiante estudiante)
         {
             try
